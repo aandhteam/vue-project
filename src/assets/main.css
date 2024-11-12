@@ -1,0 +1,32 @@
+@import "./base.css";
+
+.send-button {
+    border-radius: 4px !important;
+    padding: 15px 35px !important;
+}
+
+.send-button:hover {
+    background: transparent !important;
+    color: #ffffff !important;
+    border: 1px solid #ffffff !important;
+}
+
+
+.add-button {
+    border-radius: 4px !important;
+    padding: 15px 50px !important;
+    background: transparent !important;
+    color: #ffffff !important;
+    border: 1px solid #ffffff !important;
+}
+
+.add-button:hover {
+    background: #ffffff !important;
+    color: rgb(6 182 212 / var(--tw-bg-opacity)) !important;
+    border: 1px solid #ffffff !important;
+}
+
+.table-td-p {
+    padding-top: 35px !important;
+	padding-bottom: 35px !important;
+}
